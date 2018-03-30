@@ -1,3 +1,3 @@
 # wordfile
 remote readme bla bla bla
-text in local repo
+fixed merge conflict!
